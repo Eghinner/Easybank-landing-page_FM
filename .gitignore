@@ -15,7 +15,11 @@
 .DS_Store
 
 # :::::::::::::::::::::::
-design
-live_reload.js
-README-template.md
 style-guide.md
+
+design
+
+live_reload.js
+
+README-template.md
+
